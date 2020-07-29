@@ -1,0 +1,47 @@
+[
+
+{
+  
+  "question": "When is my birthday?",
+  "answers": ["4/21", "5/30", "8/1"],
+  "correctAnswerIndex": 0,
+  "feedback": "I was born on April 21st, 2003 in Chicago, Illinois. Legend Status!"
+  
+},
+
+{
+  
+  "question": "What's my nickname?",
+  "answers": ["tt", "manman", "tlew"],
+  "correctAnswerIndex": 2,
+  "feedback": "If you got this wrong you most definitely don't know me."
+  
+},
+
+{
+  
+  "question": "What is my favorite food?",
+  "answers": ["pizza", "chicken", "spaghetti"],
+  "correctAnswerIndex": 2,
+  "feedback": "My favorite food is definitely spaghetti, best food in the world."
+},
+
+{
+    
+    "question": "What year did I start playing basketball?",
+    "answers": ["8th grade", "7th grade", "5th grade"],
+    "correctAnswerIndex": 1,
+    "feedback": "7th grade was when I actually started playing basketball 55 overall typa vibe."
+    
+},
+
+{
+    
+    "question": "What is my favorite shoes to wear?",
+    "answers": ["Jordan 1's", "Air Max 90's", "Jordan 11's"],
+    "correctAnswerIndex": 2,
+    "feedback": "Jordan 11's are the vibes fasho."
+    
+}
+
+]
